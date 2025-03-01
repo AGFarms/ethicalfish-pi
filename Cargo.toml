@@ -12,3 +12,6 @@ futures = "0.3"
 tch = { version = "0.13", features = ["download-libtorch"] }
 base64 = "0.21"
 image = "0.24"
+reqwest = { version = "0.11", features = ["json"] }
+
+
